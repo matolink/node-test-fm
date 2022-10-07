@@ -1,0 +1,27 @@
+{
+  "name": "node-test-fm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "utils.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.1.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matolink/node-test-fm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matolink/node-test-fm/issues"
+  },
+  "homepage": "https://github.com/matolink/node-test-fm#readme"
+}
